@@ -1,0 +1,12 @@
+gradle.properties filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+tree filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+annotation-stubs filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+TEST_MAPPING filter=lfs diff=lfs merge=lfs -text
+update.py filter=lfs diff=lfs merge=lfs -text
+Android.mk filter=lfs diff=lfs merge=lfs -text
+exoplayer2-extractor-jarjar-rules.txt filter=lfs diff=lfs merge=lfs -text
